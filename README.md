@@ -1,41 +1,82 @@
 # Básicos Linux
-## Listar Archivos
+
+## Resumen
+<table>
+  <tr>
+   <td colspan="6">Básic  
+  </tr>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+</table>
+
+## Detalle
+- [Linux Commands Cheat Sheet: With Examples](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
+- [37 Important Linux Commands You Should Know](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/)
+
+## List
 ```
-ls
+$ ls [options] [file|dir]
 ```
-### Listar archivos ocultos
+### List All (Hidden Files) 
 ```
-ls -a
+$ ls -a
 ```
-### Listar archivos detalle
+### List with Long format - show permissions
 ```
-ls -l
+$ ls -l
 ```
-## Identificar el Directorio
+### List Recursively directory tree
 ```
-pwd
+$ ls -R
 ```
-## Cambiar de Directorio
+## Print Working Directory
 ```
-cd
+$ pwd [option]
 ```
-## Crear un directorio
+## Change Directory
 ```
-mkdir
+$ cd [directory]
 ```
-## Copiar un Archivo
+### Change Home Directory
 ```
-cp
+$ cd ~
 ```
-## Mover un archivo o cambiar nombre
+### Change Root Directory
 ```
-mv
+$ cd /
 ```
-## Borrar un Archivo
+### Change Parent Directory
+```
+$ cd ..
+```
+## Make Directory
+```
+$ mkdir [options...] [directories ...]
+```
+## Copy directory
+```
+$ cp [options] source dest
+```
+## Move directory
+```
+$ mv [options] source dest
+```
+### Rename
+Rename file main.c to main.bak:
+```
+$ mv main.c main.bak
+```
+## Remove files
 ```
 rm
 ```
-## Borrar un Directorio
+## Remove Directory
 ```
 rmdir
+```
+## 
+```
+cat
 ```
