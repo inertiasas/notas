@@ -26,6 +26,10 @@
 - [`sort < file_list.txt`, `sort < file_list.txt > sorted_file_list.txt` - Standard Input](https://linuxcommand.org/lc3_lts0070.php)
 - [`ls -l | less` - Pipelines](https://linuxcommand.org/lc3_lts0070.php)
 
+### Filtros
+- [more - file perusal filter for crt viewing](https://linuxcommand.org/lc3_man_pages/more1.html)
+- [wc - print newline, word, and byte counts for each file](https://linuxcommand.org/lc3_man_pages/wc1.html)
+
 # Referencias
 - [Linux Commands - Manual Pages](https://linuxcommand.org/lc3_man_page_index.php)
 - [Linux Commands - I/O Redirection](https://linuxcommand.org/lc3_lts0070.php)
