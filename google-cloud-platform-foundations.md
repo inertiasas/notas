@@ -41,6 +41,9 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 ## Cloud Functions
 - [Documentación de Cloud Functions](https://cloud.google.com/functions/docs)
 
+## Cloud Storage
+- [Documentación de Cloud Storage](https://cloud.google.com/storage/docs)
+
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 - [Google Cloud Shell](https://cloud.google.com/shell/docs)
