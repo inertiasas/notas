@@ -52,3 +52,4 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [SDK de Google Cloud](https://cloud.google.com/sdk/docs)
 - [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs)
 - [Cloud Functions](https://cloud.google.com/functions/docs)
+- [Cloud Storage](https://cloud.google.com/storage/docs)
