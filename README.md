@@ -30,6 +30,16 @@
 - [more - file perusal filter for crt viewing](https://linuxcommand.org/lc3_man_pages/more1.html)
 - [wc - print newline, word, and byte counts for each file](https://linuxcommand.org/lc3_man_pages/wc1.html)
 
+## Procesos en background y foreground
+- [`xload &` - Putting a Program into the Background](https://linuxcommand.org/lc3_lts0100.php)
+- [`bg` - Move jobs to the background](https://linuxcommand.org/lc3_man_pages/bgh.html)
+- [`fg` - Move job to the foreground](https://linuxcommand.org/lc3_man_pages/fgh.html)
+- [`fg` - Move job to the foreground](https://linuxcommand.org/lc3_man_pages/fgh.html)
+- [`ps` - report a snapshot of the current processes](https://linuxcommand.org/lc3_man_pages/ps1.html)
+- [`jobs` - Display status of jobs](https://linuxcommand.org/lc3_man_pages/jobsh.html)
+- [`kill` - Send a signal to a job](https://linuxcommand.org/lc3_man_pages/killh.html)
+
 # Referencias
 - [Linux Commands - Manual Pages](https://linuxcommand.org/lc3_man_page_index.php)
 - [Linux Commands - I/O Redirection](https://linuxcommand.org/lc3_lts0070.php)
+- [Linux Commands - Job Control](https://linuxcommand.org/lc3_lts0100.php)
