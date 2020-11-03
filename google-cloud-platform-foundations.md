@@ -27,7 +27,7 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Documentación de Google App Engine](https://cloud.google.com/appengine/docs)
 
 ## SDK
-[Documentación del SDK de Google Cloud](https://cloud.google.com/sdk/docs)
+- [Documentación del SDK de Google Cloud](https://cloud.google.com/sdk/docs)
 
 ## Repositorios y Ejemplos
 - [Github Google Cloud Platform](https://github.com/GoogleCloudPlatform)
