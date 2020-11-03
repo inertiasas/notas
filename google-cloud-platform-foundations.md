@@ -21,7 +21,9 @@ Máquinas Virtuales
 - [Documentación de Compute Engine](https://cloud.google.com/compute/docs)
 
 ## App Engine
-Máquinas Virtuales
+Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
+- Estándar: Pyhton, Java, Go, PHP.
+- Flexible: Node, .Net, Ruby, Python, Docker, Java, Go, PHP.
 - [Documentación de Google App Engine](https://cloud.google.com/appengine/docs)
 
 ## Referencias
