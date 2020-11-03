@@ -38,6 +38,9 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 ## Kubernetes Engine
 - [Documentación de Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs)
 
+## Cloud Functions
+- [Documentación de Cloud Functions](https://cloud.google.com/functions/docs)
+
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 - [Google Cloud Shell](https://cloud.google.com/shell/docs)
@@ -45,3 +48,4 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Google App Engine](https://cloud.google.com/appengine/docs)
 - [SDK de Google Cloud](https://cloud.google.com/sdk/docs)
 - [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs)
+- [Cloud Functions](https://cloud.google.com/functions/docs)
