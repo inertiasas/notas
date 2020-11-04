@@ -82,6 +82,25 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Documentación de AI Platform](https://cloud.google.com/ai-platform/docs)
 - [Introducción a TensorFlow](https://www.tensorflow.org/learn)
 
+## Suite de Operaciones
+### Cloud Monitoring
+- [Documentación de Cloud Monitoring](https://cloud.google.com/monitoring/docs)
+
+### Cloud Logging
+- [Documentación de Cloud Logging](https://cloud.google.com/logging/docs)
+
+### Error Reporting
+- [Documentación de Error Reporting](https://cloud.google.com/error-reporting/docs)
+
+### Cloud Debugger
+- Documentación del Depurador de Cloud](https://cloud.google.com/debugger/docs)
+
+### Cloud Trace
+- [Documentación de Cloud Trace](https://cloud.google.com/trace/docs)
+
+### Cloud Profiler
+- [Documentación de Cloud Profiler](https://cloud.google.com/profiler/docs)
+
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 - [Google Cloud Shell](https://cloud.google.com/shell/docs)
@@ -104,3 +123,10 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Natural Language](https://cloud.google.com/natural-language/docs)
 - [AI Platform](https://cloud.google.com/ai-platform/docs)
 - [TensorFlow](https://www.tensorflow.org/learn)
+- [Cloud Monitoring](https://cloud.google.com/monitoring/docs)
+- [Cloud Logging](https://cloud.google.com/logging/docs)
+- [Error Reporting](https://cloud.google.com/error-reporting/docs)
+- [Depurador de Cloud](https://cloud.google.com/debugger/docs)
+- [Cloud Trace](https://cloud.google.com/trace/docs)
+
+### Cloud Profiler
