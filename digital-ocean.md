@@ -7,3 +7,4 @@
 - [Marketplace](https://www.digitalocean.com/docs/marketplace/)
 - [Scurity](https://www.digitalocean.com/docs/accounts/security/)
 - [Two-Factor Authentication](https://www.digitalocean.com/docs/accounts/security/2fa/)
+- [Projects](https://www.digitalocean.com/docs/projects/)
