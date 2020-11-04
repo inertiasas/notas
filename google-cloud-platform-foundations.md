@@ -56,6 +56,12 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 ### Big Query
 - [Documentación de BigQuery](https://cloud.google.com/bigquery/docs)
 
+### Dataflow
+- [Documentación de Dataflow](https://cloud.google.com/dataflow/docs)
+
+### DataStudio
+- [Conéctate y consulta tus datos en Data Studio](https://developers.google.com/datastudio)
+
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 - [Google Cloud Shell](https://cloud.google.com/shell/docs)
@@ -69,3 +75,5 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Cloud SQL](https://cloud.google.com/sql/docs)
 - [Datastore](https://cloud.google.com/datastore/docs/concepts/overview)
 - [BigQuery](https://cloud.google.com/bigquery/docs)
+- [Dataflow](https://cloud.google.com/dataflow/docs)
+- [Data Studio](https://developers.google.com/datastudio)
