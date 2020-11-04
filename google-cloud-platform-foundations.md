@@ -47,6 +47,9 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 ## Cloud SQL
 - [Documentación de Cloud SQL](https://cloud.google.com/sql/docs)
 
+## Datastore
+- [Descripción general de Datastore](https://cloud.google.com/datastore/docs/concepts/overview)
+
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 - [Google Cloud Shell](https://cloud.google.com/shell/docs)
@@ -58,3 +61,4 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Cloud Functions](https://cloud.google.com/functions/docs)
 - [Cloud Storage](https://cloud.google.com/storage/docs)
 - [Cloud SQL](https://cloud.google.com/sql/docs)
+- [Datastore](https://cloud.google.com/datastore/docs/concepts/overview)
