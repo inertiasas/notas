@@ -9,3 +9,6 @@
 - [Two-Factor Authentication](https://www.digitalocean.com/docs/accounts/security/2fa/)
 - [Projects](https://www.digitalocean.com/docs/projects/)
 - [Access using Console](https://www.digitalocean.com/docs/droplets/resources/console/)
+- [Create and Set Up Volumes for Use with Droplets](https://www.digitalocean.com/docs/droplets/resources/console/)
+- [Increase the Size of Volumes](https://www.digitalocean.com/docs/volumes/how-to/increase-size/)
+- [Resize Droplets](https://www.digitalocean.com/docs/droplets/how-to/resize/)
