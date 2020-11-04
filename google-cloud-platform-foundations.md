@@ -12,43 +12,49 @@
 ### Permisos
 Menú de Navegación -> IAM y Administración -> IAM
 
-## Cloud Shell
+## Cómputo
+### Cloud Shell
 Activar Google Cloud Shell en la esquina superior derecha
 - [Documentación de Google Cloud Shell](https://cloud.google.com/shell/docs)
 
-## Compute Engine
+### Compute Engine
 Máquinas Virtuales
 - [Documentación de Compute Engine](https://cloud.google.com/compute/docs)
 
-## App Engine
+### App Engine
 Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - Estándar: Pyhton, Java, Go, PHP.
 - Flexible: Node, .Net, Ruby, Python, Docker, Java, Go, PHP.
 - [Documentación de Google App Engine](https://cloud.google.com/appengine/docs)
 
-### SDK
+#### SDK
 - [Documentación del SDK de Google Cloud](https://cloud.google.com/sdk/docs)
 - Para publicar en Google 
   -`gcloud app deploy`
 
-### Repositorios y Ejemplos
+#### Repositorios y Ejemplos
 - [Github Google Cloud Platform](https://github.com/GoogleCloudPlatform)
   - Ajustar archivo de configuración y ajustar la variable `PROJECT_ID`.
 
-## Kubernetes Engine
+### Kubernetes Engine
 - [Documentación de Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs)
 
-## Cloud Functions
+### Cloud Functions
 - [Documentación de Cloud Functions](https://cloud.google.com/functions/docs)
 
-## Cloud Storage
+## Almacenamiento de Datos
+### Cloud Storage
 - [Documentación de Cloud Storage](https://cloud.google.com/storage/docs)
 
-## Cloud SQL
+### Cloud SQL
 - [Documentación de Cloud SQL](https://cloud.google.com/sql/docs)
 
-## Datastore
+### Datastore
 - [Descripción general de Datastore](https://cloud.google.com/datastore/docs/concepts/overview)
+
+## Big Data
+### Big Query
+- [Documentación de BigQuery](https://cloud.google.com/bigquery/docs)
 
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
@@ -62,3 +68,4 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Cloud Storage](https://cloud.google.com/storage/docs)
 - [Cloud SQL](https://cloud.google.com/sql/docs)
 - [Datastore](https://cloud.google.com/datastore/docs/concepts/overview)
+- [BigQuery](https://cloud.google.com/bigquery/docs)
