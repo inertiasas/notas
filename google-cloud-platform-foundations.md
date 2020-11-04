@@ -75,6 +75,9 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 ### Speech to Text
 - [Documentación de Text-to-Speech](https://cloud.google.com/text-to-speech/docs)
 
+### Natural Language
+- [Documentación de Cloud Natural Language](https://cloud.google.com/natural-language/docs)
+
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 - [Google Cloud Shell](https://cloud.google.com/shell/docs)
@@ -94,3 +97,4 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Video Intelligence](https://cloud.google.com/video-intelligence/docs)
 - [Speech‑to‑Text](https://cloud.google.com/speech-to-text/docs)
 - [Text-to-Speech](https://cloud.google.com/text-to-speech/docs)
+- [Natural Language](https://cloud.google.com/natural-language/docs)
