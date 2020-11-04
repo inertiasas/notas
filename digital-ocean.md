@@ -12,3 +12,6 @@
 - [Create and Set Up Volumes for Use with Droplets](https://www.digitalocean.com/docs/droplets/resources/console/)
 - [Increase the Size of Volumes](https://www.digitalocean.com/docs/volumes/how-to/increase-size/)
 - [Resize Droplets](https://www.digitalocean.com/docs/droplets/how-to/resize/)
+- [Networking](https://www.digitalocean.com/docs/networking/)
+- [Snapshots](https://www.digitalocean.com/docs/images/snapshots/)
+- [Backups](https://www.digitalocean.com/docs/images/backups/)
