@@ -44,6 +44,9 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 ## Cloud Storage
 - [Documentación de Cloud Storage](https://cloud.google.com/storage/docs)
 
+## Cloud SQL
+- [Documentación de Cloud SQL](https://cloud.google.com/sql/docs)
+
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 - [Google Cloud Shell](https://cloud.google.com/shell/docs)
@@ -51,5 +54,6 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Google App Engine](https://cloud.google.com/appengine/docs)
 - [SDK de Google Cloud](https://cloud.google.com/sdk/docs)
 - [Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs)
+- [Cloud SQL](https://cloud.google.com/sql/docs)
 - [Cloud Functions](https://cloud.google.com/functions/docs)
 - [Cloud Storage](https://cloud.google.com/storage/docs)
