@@ -101,6 +101,17 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 ### Cloud Profiler
 - [Documentación de Cloud Profiler](https://cloud.google.com/profiler/docs)
 
+## Seguridad
+### Cloud IAM
+- [Documentación de la administración de identidades y accesos](https://cloud.google.com/iam/docs)
+
+### Security Command Center
+- [Security Command Center documentation](https://cloud.google.com/security-command-center/docs)
+
+### Cloud Key Management Service
+- [Documentación de Cloud Key Management Service](https://cloud.google.com/kms/docs)
+
+
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 - [Google Cloud Shell](https://cloud.google.com/shell/docs)
@@ -128,5 +139,7 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Error Reporting](https://cloud.google.com/error-reporting/docs)
 - [Depurador de Cloud](https://cloud.google.com/debugger/docs)
 - [Cloud Trace](https://cloud.google.com/trace/docs)
-
-### Cloud Profiler
+- [Cloud Profiler](https://cloud.google.com/profiler/docs)
+- [Administración de identidades y accesos](https://cloud.google.com/iam/docs)
+- [Security Command Center](https://cloud.google.com/security-command-center/docs)
+- [Cloud Key Management Service](https://cloud.google.com/kms/docs)
