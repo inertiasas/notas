@@ -7,7 +7,7 @@
 - [Spaces](https://www.digitalocean.com/docs/spaces/)
 - [Marketplace](https://www.digitalocean.com/docs/marketplace/)
 ### Configuación de un Dropnet
-- [Scurity](https://www.digitalocean.com/docs/accounts/security/)
+- [Security](https://www.digitalocean.com/docs/accounts/security/)
 - [Two-Factor Authentication](https://www.digitalocean.com/docs/accounts/security/2fa/)
 - [Projects](https://www.digitalocean.com/docs/projects/)
 - [Access using Console](https://www.digitalocean.com/docs/droplets/resources/console/)
