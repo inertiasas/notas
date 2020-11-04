@@ -18,3 +18,4 @@
 - [Snapshots](https://www.digitalocean.com/docs/images/snapshots/)
 - [Backups](https://www.digitalocean.com/docs/images/backups/)
 - [Manage a Droplet's Kernel](https://www.digitalocean.com/docs/droplets/how-to/kernel/)
+- [Destroy a Droplet from Panel](https://www.digitalocean.com/docs/droplets/how-to/destroy/)
