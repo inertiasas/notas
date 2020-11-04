@@ -1,6 +1,6 @@
 # Digital Ocean
 ## Referencias
-### Genralidades
+### Generalidades
 - [Digital Ocean](https://www.digitalocean.com/docs/)
 - [Droplets](https://www.digitalocean.com/docs/droplets/)
 - [Volumes](https://www.digitalocean.com/docs/volumes/)
