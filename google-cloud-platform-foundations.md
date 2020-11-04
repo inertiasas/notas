@@ -111,6 +111,14 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 ### Cloud Key Management Service
 - [Documentación de Cloud Key Management Service](https://cloud.google.com/kms/docs)
 
+### Cloud Data Loss Prevention (DLP)
+- [Documentación de Cloud Data Loss Prevention (DLP)](https://cloud.google.com/dlp/docs)
+
+### Identity-Aware Proxy
+- [Documentación de Identity-Aware Proxy](https://cloud.google.com/iap/docs)
+
+### Forseti
+- [Documentación Forseti](https://forsetisecurity.org/docs/v2.24/)
 
 ## Referencias
 - [Crea y administra proyectos - Google Cloud](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
@@ -143,3 +151,7 @@ Plataforma como servicio de google. Se abstrae la capa del sistema operativo.
 - [Administración de identidades y accesos](https://cloud.google.com/iam/docs)
 - [Security Command Center](https://cloud.google.com/security-command-center/docs)
 - [Cloud Key Management Service](https://cloud.google.com/kms/docs)
+- [Cloud Data Loss Prevention (DLP)](https://cloud.google.com/dlp/docs)
+- [Identity-Aware Proxy](https://cloud.google.com/iap/docs)
+- [Forseti](https://forsetisecurity.org/docs/v2.24/)
+
