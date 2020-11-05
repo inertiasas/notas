@@ -1,5 +1,5 @@
 # Jenkins
-## Instalación y Configuración Básica
+## Jenkins Core
 - [Instalación Java 8](https://www.jenkins.io/doc/book/installing/linux/#installation-of-java)
 - [Instalación Jenkins](https://www.jenkins.io/doc/book/installing/linux/#long-term-support-release)
   - [Jenkins 2.235.3: New Linux Repository Signing Keys](https://www.jenkins.io/blog/2020/07/27/repository-signing-keys-changing/#debianubuntu)
