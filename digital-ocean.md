@@ -21,4 +21,6 @@
 - [Destroy a Droplet from Panel](https://www.digitalocean.com/docs/droplets/how-to/destroy/)
 - [Tag Droplets](https://www.digitalocean.com/docs/droplets/how-to/tag/)
 - [Droplet Graphs](https://www.digitalocean.com/docs/droplets/how-to/graphs/)
-- [Recovery](https://www.digitalocean.com/docs/droplets/resources/recovery-iso/
+- [Recovery](https://www.digitalocean.com/docs/droplets/resources/recovery-iso/)
+## API DigitalOcean
+- [API v2 Introduction](https://developers.digitalocean.com/documentation/v2/)
