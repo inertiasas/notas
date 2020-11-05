@@ -14,3 +14,7 @@ $ sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > /etc/apt/s
 $ sudo apt update
 $ sudo apt install git jenkins
 ```
+- [Crear una llave ssh](https://www.ssh.com/ssh/keygen/#creating-an-ssh-key-pair-for-user-authentication)
+```
+ssh-keygen
+```
