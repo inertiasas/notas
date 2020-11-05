@@ -13,4 +13,4 @@ $ sudo apt install git jenkins
 ```
 - [Crear una llave ssh](https://www.ssh.com/ssh/keygen/#creating-an-ssh-key-pair-for-user-authentication)
 - [Start y Status Jenkins](https://www.jenkins.io/doc/book/installing/linux/#start-jenkins)
-- [Post-instalación](https://www.jenkins.io/doc/book/installing/linux/#unlocking-jenkins)
+- [Post-instalación: Desbloquear, Plugins y Administrador](https://www.jenkins.io/doc/book/installing/linux/#unlocking-jenkins)
